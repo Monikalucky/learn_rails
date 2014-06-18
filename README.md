@@ -1,8 +1,2 @@
-learn_rails
-===========
-
-====================
-
-========================
-
-New Start with Github and Ruby on rails
+“Excited to learn Rails with help from the
+RailsApps project!”
